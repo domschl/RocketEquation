@@ -1,0 +1,13 @@
+Name,Type,Parent,GM (m^3/s^2),Radius (m),Apoapsis (m),Periapsis (m),Atmosphere,Launch Penalty (m/s),Landing Burn (m/s)
+Sun,Star,,1.32712440018e20,695700000,0,0,True,0,0
+Earth,Body,Sun,3.986004418e14,6371000,152100000000,147090000000,True,1800,500
+Moon,Body,Earth,4904869500000,1737400,405400000,363300000,False,0,1730
+Mars,Body,Sun,42828370000000,3389500,249200000000,206700000000,True,500,1000
+LEO,Orbit,Earth,,,400000,400000,,,
+GEO,Orbit,Earth,,,35786000,35786000,,,
+LLO,Orbit,Moon,,,100000,100000,,,
+LMO,Orbit,Mars,,,200000,200000,,,
+ISS,Station,Earth,,,422000,418000,,,
+GTO,Orbit,Earth,,,35786000,400000,,,
+LTO,Orbit,Earth,,,384000000,400000,,,
+Mars_Transfer,Orbit,Sun,,,227900000000,149600000000,,,
