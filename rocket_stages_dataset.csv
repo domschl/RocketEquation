@@ -1,0 +1,13 @@
+Rocket,Stage,Stage Name,Propellant Mass (t),Dry Mass (t),Isp (vacuum),Engine Type
+Saturn V,1,S-IC,2160,131,263,Kerosene
+Saturn V,2,S-II,456.1,36.1,421,Hydrogen
+Saturn V,3,S-IVB,109,11.9,421,Hydrogen
+Saturn V,4,Apollo CSM,18.6,5.6,314,Hypergolic
+Saturn V,5,LM Descent,8.2,2.0,311,Hypergolic
+Saturn V,6,LM Ascent,2.4,2.2,311,Hypergolic
+Falcon 9 (expendable),1,Booster,411,22.2,282,Kerosene
+Falcon 9 (expendable),2,Second Stage,92.6,4,348,Kerosene
+Starship (Full Stack),1,Super Heavy,3400,200,327,Methane
+Starship (Full Stack),2,Starship,1200,100,378,Methane
+Space Shuttle,0,SRBs,1180,174,269,Solid
+Space Shuttle,1,External Tank,760,26.5,452,Hydrogen
